@@ -1,4 +1,4 @@
 # Name-Generator
-A Dynamic Name Creator Website  using Nodejs and EJS.
+A Dynamic Name Creator Website  help of  Nodejs and EJS.
 
 
